@@ -1,0 +1,4 @@
+github.com/jun-hf/link-extractor v0.0.0-20240327220621-2c8f5eda3adc h1:o+Ys6qDboasykCSSbC7SZb1Hiuts5NNKd8Ol/EUlVMQ=
+github.com/jun-hf/link-extractor v0.0.0-20240327220621-2c8f5eda3adc/go.mod h1:Z3265YB+ZaGfppIvcayCmIjRXds7NxPXcDPAdabc8sE=
+golang.org/x/net v0.22.0 h1:9sGLhx7iRIHEiX0oAJ3MRZMUCElJgy7Br1nO+AMN3Tc=
+golang.org/x/net v0.22.0/go.mod h1:JKghWKKOSdJwpW2GEx0Ja7fmaKnMsbu+MWVZTokSYmg=
